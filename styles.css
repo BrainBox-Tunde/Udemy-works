@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+#home-header nav, a{
+    background-color: rgb(12, 12, 61);
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+#banner-image img{
+    height: 550px;
+    width: 100%;
+}
