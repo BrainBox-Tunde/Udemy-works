@@ -1,6 +1,7 @@
 body{
     margin:0px;
     padding: 0px;
+    background-color: #f2f6ff;
 }
 #home-header nav, a{
     background-color: rgb(12, 12, 61);
@@ -11,4 +12,16 @@ body{
 #banner-image img{
     height: 550px;
     width: 100%;
+}
+main{
+    width: 80%;
+    margin: 20px auto 5px auto;
+    text-align: center;
+}
+table{
+    width:100%;
+}
+table img{
+    height: 400px;
+    width: 450px;
 }
